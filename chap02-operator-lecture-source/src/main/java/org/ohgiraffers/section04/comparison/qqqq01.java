@@ -33,7 +33,7 @@ public class qqqq01 {
 
         // 문자형 자료형을 선언
         char ch = 'a';  // 97
-        double  = ch;
+//        double  = ch;
 
 
         int num = 99;
